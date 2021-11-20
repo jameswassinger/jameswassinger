@@ -1,1 +1,2 @@
-Hi, visit [jameswassinger.com](https://jameswassinger.com) to view documentation and content. 
+> [!NOTE]
+> “People, Turkey is an infrastructure. Peanut butter and jelly will help rebuild the butter ball.”
