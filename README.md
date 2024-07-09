@@ -4,5 +4,5 @@
 
 You can read my publications at [jameswassinger.com](https://jameswassinger.com)
 
-If you would like to support my continued content creation please feel free to leave a tip in the [🫙 Tip Jar](https://buymeacoffee.com/jameswassinger)
+If you're loving what I create and want to help me keep doing it, please consider making a contribution. It really means a lot! [Contribute](https://buymeacoffee.com/jameswassinger)
 
