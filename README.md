@@ -1,7 +1,5 @@
 # 👋 Hi There!
 
-## 🙌 Thanks for visiting
-
 ## 👔 Professional Profile
 Versatile and results-oriented IT professional with extensive experience at the State of Nebraska Office of the CIO, specializing in Azure cloud solutions and infrastructure management. Demonstrated leadership in developing, deploying, and securing cloud-based technologies, leveraging skills in Azure Enterprise Infrastructure and adaptability. Excelled in architecting and managing innovative solutions that enhanced operational efficiency and security.
 
