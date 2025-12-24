@@ -6,8 +6,6 @@ Experienced IT professional with a focus on Azure cloud solutions and infrastruc
 ## 💌 Contact
 [LinkedIn](https://linkedin.com/in/jameswassinger)
 
-[jameswassinger.com](https://jameswassinger.com)
-
 
 
 
