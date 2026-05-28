@@ -45,13 +45,12 @@ I enjoy turning repeatable operational work into clean scripts, infrastructure-a
 
 ## GitHub Snapshot
 
-<div align="center">
-
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameswassinger&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameswassinger&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+| Area | Highlights |
+| --- | --- |
+| Cloud platform | Azure infrastructure, networking, governance, security, and operations |
+| Automation | PowerShell, Terraform, GitHub Actions, and repeatable operational workflows |
+| Recent public work | Azure Firewall Policy automation, private DNS zone patterns, Azure admin scripts |
+| Profile | [Repositories](https://github.com/jameswassinger?tab=repositories) · [Stars](https://github.com/jameswassinger?tab=stars) · [Activity](https://github.com/jameswassinger) |
 
 ## Connect
 
