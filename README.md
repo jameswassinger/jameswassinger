@@ -1,60 +1,88 @@
-<div align="center">
-
 # James Wassinger
 
-### Azure infrastructure, automation, and secure enterprise cloud operations
+### Cloud Services Expert | Azure & Microsoft 365 | AI-Assisted Engineering | Automation & Security
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Wassinger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameswassinger)
-[![GitHub](https://img.shields.io/badge/GitHub-jameswassinger-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jameswassinger)
+Building secure, intelligent, and reliable cloud environments through modern engineering practices, automation, and AI.
 
-</div>
+[LinkedIn](https://linkedin.com/in/jameswassinger) · [GitHub](https://github.com/jameswassinger) · [Repositories](https://github.com/jameswassinger?tab=repositories)
 
-## About
+## About Me
 
-I am an IT and cloud infrastructure professional focused on building reliable, secure, and maintainable Azure environments. My work centers on enterprise infrastructure, network architecture, automation, governance, and practical tooling that helps teams operate cloud platforms with more confidence and less manual toil.
+I'm a Cloud Services Expert specializing in Microsoft Azure, Microsoft 365, enterprise security, infrastructure automation, and AI-assisted engineering.
 
-I enjoy turning repeatable operational work into clean scripts, infrastructure-as-code workflows, and documentation that other engineers can actually use.
+My work spans cloud architecture, identity and access management, infrastructure engineering, endpoint management, and cloud operations. I'm particularly interested in how artificial intelligence can improve the way engineers design, deploy, secure, troubleshoot, and maintain complex environments.
+
+I believe the future of cloud engineering lies at the intersection of **infrastructure, automation, security, and AI** — combining sound engineering principles with intelligent tools to build more efficient and reliable systems.
+
+## Areas of Expertise
+
+**Cloud Infrastructure & Architecture**
+- Microsoft Azure infrastructure, networking, and governance
+- Hybrid cloud architecture and enterprise integration
+- Infrastructure as Code with Terraform and Bicep
+- Cloud security, reliability, and operational management
+
+**Identity, Security & Microsoft 365**
+- Microsoft Entra ID, Conditional Access, and identity governance
+- Microsoft Defender and Zero Trust security principles
+- Microsoft Intune and endpoint lifecycle management
+- Exchange Online, SharePoint, Microsoft Teams, and OneDrive
+
+**AI & Intelligent Engineering**
+- AI-assisted software and infrastructure engineering
+- AI-powered development workflows and coding assistants
+- Large language models and practical enterprise AI applications
+- AI-assisted troubleshooting, research, and technical documentation
+- Exploring AI agents, tool integrations, and operational automation
+
+**Automation & DevOps**
+- PowerShell scripting and infrastructure automation
+- Terraform, Bicep, and declarative infrastructure management
+- GitHub Actions, Azure DevOps, and CI/CD pipelines
+- Git-based workflows, version control, and engineering standards
 
 ## Current Focus
 
-- Designing and managing Azure enterprise infrastructure across networking, security, identity, and governance
-- Automating Azure operations with PowerShell, Terraform, and GitHub Actions
-- Improving cloud security posture through policy, tagging, RBAC cleanup, and controlled change management
-- Documenting reusable patterns for hub-and-spoke networking, private DNS, and firewall policy administration
+- Integrating AI-assisted workflows into cloud infrastructure engineering and operations
+- Exploring AI agents and intelligent automation for enterprise IT
+- Building reusable Infrastructure as Code patterns and deployment pipelines
+- Strengthening Microsoft 365 identity, security, and endpoint governance
+- Developing structured technical documentation, scripts, and operational runbooks
+- Improving cloud reliability through automation, standardization, and continuous learning
 
-## Toolkit
+## Technology Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Networking-1F6FEB?style=flat-square" alt="Networking" />
-  <img src="https://img.shields.io/badge/Security-2EA043?style=flat-square" alt="Security" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-</p>
-
-## Featured Work
-
-| Project | What it does |
+| Category | Technologies & Tools |
 | --- | --- |
-| [Azure-PowerShell](https://github.com/jameswassinger/Azure-PowerShell) | Custom Azure PowerShell scripts for tagging, RBAC cleanup, and private DNS VNet links. |
-| [azfw-policy](https://github.com/jameswassinger/azfw-policy) | Azure Firewall Policy management with Terraform and GitHub Actions. |
-| [AzurePrivateDnsZones](https://github.com/jameswassinger/AzurePrivateDnsZones) | Centralized Azure Private DNS zone patterns for hub-and-spoke enterprise environments. |
-| [scripts](https://github.com/jameswassinger/scripts) | Small utility scripts for workstation and operational tasks. |
+| Cloud | Microsoft Azure, Microsoft 365 |
+| Identity & Security | Entra ID, Microsoft Defender, Conditional Access |
+| Endpoint Management | Microsoft Intune, Windows Update for Business |
+| Infrastructure as Code | Terraform, Bicep |
+| Automation & DevOps | PowerShell, GitHub Actions, Azure DevOps |
+| AI & Engineering | ChatGPT, OpenAI Codex, GitHub Copilot, LLM-assisted workflows |
+| Collaboration | Exchange Online, SharePoint, Teams, OneDrive |
 
-## GitHub Snapshot
+## Featured Projects
 
-| Area | Highlights |
+| Repository | Description |
 | --- | --- |
-| Cloud platform | Azure infrastructure, networking, governance, security, and operations |
-| Automation | PowerShell, Terraform, GitHub Actions, and repeatable operational workflows |
-| Recent public work | Azure Firewall Policy automation, private DNS zone patterns, Azure admin scripts |
-| Profile | [Repositories](https://github.com/jameswassinger?tab=repositories) · [Stars](https://github.com/jameswassinger?tab=stars) · [Activity](https://github.com/jameswassinger) |
+| [Azure-PowerShell](https://github.com/jameswassinger/Azure-PowerShell) | PowerShell automation for Azure administration, governance, and infrastructure management |
+| [azfw-policy](https://github.com/jameswassinger/azfw-policy) | Azure Firewall Policy management using Terraform and GitHub Actions |
+| [AzurePrivateDnsZones](https://github.com/jameswassinger/AzurePrivateDnsZones) | Azure Private DNS architecture and reusable infrastructure patterns |
+| [scripts](https://github.com/jameswassinger/scripts) | Utility scripts and operational automation |
 
-## Connect
+## Engineering Philosophy
 
-I am always glad to connect with people working on Azure infrastructure, automation, cloud governance, and practical operations engineering.
+**Security by Design** — Security, identity, and governance should be foundational to every solution.
 
-- [LinkedIn](https://linkedin.com/in/jameswassinger)
-- [GitHub](https://github.com/jameswassinger)
+**Automation First** — Prefer repeatable, version-controlled processes over unnecessary manual operations.
+
+**AI as an Engineering Multiplier** — Use AI to accelerate research, development, troubleshooting, and problem-solving while maintaining human oversight and engineering accountability.
+
+**Operational Excellence** — Build systems that are reliable, observable, maintainable, and well-documented.
+
+**Continuous Improvement** — Challenge existing processes, explore emerging technologies, and continuously refine how engineering work gets done.
+
+---
+
+*Exploring the intersection of cloud infrastructure, artificial intelligence, security, and automation.*
